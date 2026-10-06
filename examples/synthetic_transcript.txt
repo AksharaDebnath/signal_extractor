@@ -1,0 +1,9 @@
+# Synthetic example only — not a real conversation or customer record.
+Meeting ID: example-001
+Meeting Topic: Demonstration conversation
+
+00:00:01.000 --> 00:00:05.000 [OPTIMIZE_REP]: What would make a new platform worth evaluating?
+00:00:06.000 --> 00:00:12.000 [ADVISOR]: I spend too much time on account paperwork, so better operations support would matter.
+00:00:13.000 --> 00:00:18.000 [OPTIMIZE_REP]: We offer transition support and a digital onboarding workflow.
+00:00:19.000 --> 00:00:27.000 [ADVISOR]: I would need confidence that my clients will not have a disruptive transition before I make a move.
+00:00:28.000 --> 00:00:33.000 [ADVISOR]: I am open to reviewing the details, but I am not planning a change this quarter.

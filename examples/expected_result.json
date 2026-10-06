@@ -1,0 +1,32 @@
+{
+  "transcript_id": "example-001",
+  "signals": [
+    {
+      "signal_type": "driver",
+      "rank": 1,
+      "category": "Operations / Administrative Support",
+      "advisor_quote": "I spend too much time on account paperwork, so better operations support would matter.",
+      "timestamp": "00:00:06.000",
+      "evidence_strength": "explicit",
+      "rationale": "The advisor directly identifies operational burden and states that better support would matter."
+    },
+    {
+      "signal_type": "blocker",
+      "rank": 1,
+      "category": "Client Retention",
+      "advisor_quote": "I would need confidence that my clients will not have a disruptive transition before I make a move.",
+      "timestamp": "00:00:19.000",
+      "evidence_strength": "explicit",
+      "rationale": "The advisor states client-transition confidence as a required condition before moving."
+    },
+    {
+      "signal_type": "blocker",
+      "rank": 2,
+      "category": "Timing / Urgency",
+      "advisor_quote": "I am open to reviewing the details, but I am not planning a change this quarter.",
+      "timestamp": "00:00:28.000",
+      "evidence_strength": "explicit",
+      "rationale": "The advisor expresses openness while directly limiting near-term timing."
+    }
+  ]
+}

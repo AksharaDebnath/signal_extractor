@@ -1,0 +1,22 @@
+# Secrets and local environments
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Potentially sensitive inputs and generated artifacts
+data/transcripts/*.txt
+data/processing/**/*.json
+data/results/**/*.json
+
+# Preserve empty local directories
+!data/transcripts/.gitkeep
+!data/processing/.gitkeep
+!data/results/.gitkeep
